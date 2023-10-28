@@ -16,7 +16,7 @@ This is a learning project focusing on:
 
 ## Preview
 
-![Color Picker/Generator](https://dj-project-previews.s3.amazonaws.com/mini-projects-react/grocery-bud.png)
+![Grocery Bud](https://dj-project-previews.s3.amazonaws.com/mini-projects-react/grocery-bud.png)
 ## Live Project
 
 This project is hosted on Netlify, please click [here](https://courageous-lollipop-d99b65.netlify.app/) to view
